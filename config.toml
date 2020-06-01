@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "OUFC Website"
+publishDir = "docs"
+theme = "hugo-theme-cleanwhite"
+about_me = true
+
+[params]
+  header_image = "img/logo.png"
+
+  [[params.addtional_menus]]
+  title =  "CONTACT"
+  href =  "/top/contact/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
+  [[params.addtional_menus]]
+  title =  "SUPPORT"
+  href =  "/top/support/"
+
+  about_me = true

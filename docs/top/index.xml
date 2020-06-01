@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on OUFC Website</title>
+    <link>http://example.org/top/</link>
+    <description>Recent content in Tops on OUFC Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/top/about/</guid>
+      <description>The Oxford University Fencing Club is one of the oldest surviving fencing clubs in the country, certainly one of the oldest outside of London. Throughout its history, it has played an important role in British fencing, and its history reflects that of the sport in general in England. The club was founded in 1891, placing it at the forefront of the revival of fencing as a sport in Great Britain which really began in the 1890’s.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/top/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/top/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/top/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/top/support/</guid>
+      <description>The rising costs of coaching, equipment, and generally the increasing cost of student life in Oxford does take a heavy toll on the extent to which our members can fence. In order to offer our members the opportunity to pursue their goals in fencing, we would like to subsidise as much as possible all activities that will enable our fencers to attain that high level of achievement which OUFC has been proud of since 1891.</description>
+    </item>
+    
+  </channel>
+</rss>
