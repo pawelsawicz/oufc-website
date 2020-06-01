@@ -1,58 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website/top/about/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/presidents-welcome/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website/post/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about_me/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website/presidents-welcome/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/oufc-website/top/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pawelsawicz.github.io/oufc-website/about_me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website/portfolio/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/top/about/</loc>
-    <priority>0</priority>
+    <loc>https://pawelsawicz.github.io/oufc-website/top/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/top/contact/</loc>
-    <priority>0</priority>
+    <loc>https://pawelsawicz.github.io/oufc-website/top/support/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/top/support/</loc>
-    <priority>0</priority>
+    <loc>https://pawelsawicz.github.io/oufc-website/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/top/</loc>
+    <loc>https://pawelsawicz.github.io/oufc-website/tags/</loc>
   </url>
   
 </urlset>
